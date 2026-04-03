@@ -1,14 +1,14 @@
 # EDA-project-netflix
-# 📊 Netflix Exploratory Data Analysis (EDA) Project
+#  Netflix Exploratory Data Analysis (EDA) Project
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset to uncover patterns, trends, and insights related to content distribution, genres, ratings, and growth over time.
 
 The analysis was conducted using Python and visualized through various charts to support data-driven insights.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Understand the distribution of Movies vs TV Shows
 - Analyze content trends over time
 - Explore popular genres, ratings, and countries
@@ -17,7 +17,7 @@ The analysis was conducted using Python and visualized through various charts to
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python
 - Jupyter Notebook
 - pandas, numpy
@@ -26,7 +26,7 @@ The analysis was conducted using Python and visualized through various charts to
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Source: Netflix Movies & TV Shows Dataset (Kaggle)
 - Rows: 8000+
 - Columns: 12+
@@ -34,7 +34,7 @@ The analysis was conducted using Python and visualized through various charts to
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 - Removed duplicate records
 - Converted `date_added` to datetime format
 - Handled missing values:
@@ -47,7 +47,7 @@ The analysis was conducted using Python and visualized through various charts to
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 - Created new features:
   - `year_added`, `month_added`
   - `content_age`
@@ -59,7 +59,7 @@ These features improved analysis and helped extract deeper insights.
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 ### 🔹 Univariate Analysis
 - Distribution of content type
@@ -82,7 +82,7 @@ These features improved analysis and helped extract deeper insights.
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Movies dominate the platform compared to TV Shows
 - Most content is from recent years (post-2015)
 - International Movies, Drama, and Comedy are top genres
@@ -92,7 +92,7 @@ These features improved analysis and helped extract deeper insights.
 
 ---
 
-## 📌 Recommendations
+##  Recommendations
 - Focus on producing and adding more recent content
 - Strengthen the movie library while increasing TV Shows
 - Invest in popular genres like International Movies, Drama, and Comedy
@@ -105,11 +105,11 @@ These features improved analysis and helped extract deeper insights.
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This project demonstrates how data analysis can be used to uncover meaningful insights and support strategic decisions. By analyzing Netflix content data, we identified trends in content growth, audience preferences, and distribution patterns.
 
 ---
 
-## 📎 How to Run
+##  How to Run
 1. Clone the repository
 2. Install required libraries:
